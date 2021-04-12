@@ -26,7 +26,7 @@ Feature engineering was performed to optimize the r-squared score, adding intera
 
 ## Data:
 
-Yearly sales data was collected from [Good Car Bad Car](https://www.goodcarbadcar.net/). Model spec data was webscraped from [Car Specs](https://www.carspecs.us/) with additional data gathered from a [personal git rep](https://www.reddit.com/r/datasets/comments/b6rcwv/i_scraped_32000_cars_including_the_price_and_115/) and the [EPA](vehq.com).
+Yearly sales data was collected from [Good Car Bad Car](https://www.goodcarbadcar.net/). Model spec data was webscraped from [Car Specs](https://www.carspecs.us/) with additional data gathered from a [git rep](https://www.reddit.com/r/datasets/comments/b6rcwv/i_scraped_32000_cars_including_the_price_and_115/) and the [EPA](vehq.com).
 
 ## Results Summary:
 
