@@ -16,7 +16,7 @@ Feature engineering was performed to optimize the r-squared score, adding intera
 
 ## Techniques:
 
-- Exploratory Data Analysis
+- Exploratory Data Analysis (Tableau)
 - Simple Linear Regression
 - Polynomial Regression
 - Lasso Regression
