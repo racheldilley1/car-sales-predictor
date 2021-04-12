@@ -6,7 +6,7 @@ To build a linear regression model to predict total number of sales in a year fo
 
 ## Aproach:
 
-The features used for baseline modeling were msrp, mpg, car width, car length, car height, wheelbase, speed, horsepower, number of doors, passenger capacity, drive type, fuel tank capacity, fuel type, EPA class, curb weight, and passenger volume. After data acquisition and data cleaning, exploratory data analysis was done using Tableau. Play areound with the interactive dashboard [here](https://public.tableau.com/views/TotalSalesDashboard_16181958948160/Dashboard1?:language=en&:retry=yes&:display_count=y&publish=yes&:origin=viz_share_link).
+The features used for baseline modeling were msrp, mpg, car width, car length, car height, wheelbase, speed, horsepower, number of doors, passenger capacity, drive type, fuel tank capacity, fuel type, EPA class, curb weight, and passenger volume. After data acquisition and data cleaning, exploratory data analysis was done using Tableau. Play around with the interactive dashboard [here](https://public.tableau.com/views/TotalSalesDashboard_16181958948160/Dashboard1?:language=en&:retry=yes&:display_count=y&publish=yes&:origin=viz_share_link).
 
 Feature selection was done to reduce dimensinality, the chance of overfitting, and model complexity. A baseline Lasso Regression model was trained on all features. Features that scored a coeficient of zero (number of doors, tank capacity, car height, and car width), meaning they had no impact on the model, were removed first. 
 
